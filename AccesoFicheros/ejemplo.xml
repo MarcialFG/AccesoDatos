@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<booklist>
+    <book>
+        <name>El Quijote</name>
+        <author>Cervantes</author>
+        <publisher>Desconocido</publisher>
+        <isbn>1</isbn>
+    </book>
+    <book>
+        <name>El Señor de los Anillos</name>
+        <author>J.R.R Tolkien</author>
+        <publisher>Desconocido</publisher>
+        <isbn>2</isbn>
+    </book>
+</booklist>
