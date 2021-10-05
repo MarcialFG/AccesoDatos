@@ -19,7 +19,7 @@ public class Book implements Serializable{
 	
 	@XmlTransient
 	private int afuego=6;  
-	//propiedad que la excluyes de ser serializada
+	
 	
 	public Book() {}
 
